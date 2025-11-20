@@ -1,3 +1,5 @@
+Change Log (2025-11-20):
+– Updated 'Next tweaks' to suggest possible adjustments of the plan.
 **Module 4 — Render & Refine**
 
 Show results clearly and conversationally:
